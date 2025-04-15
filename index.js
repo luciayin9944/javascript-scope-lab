@@ -22,24 +22,3 @@ if (true) {
 function changeFeaturedDrink() {
   featuredDrink = 'The JavaShake';
 }
-
-
-
-// my original code
-
-// const burgers = ["Hamburger", "Cheeseburger"];
-// const featuredDrink = "Strawberry Milkshake"; // 用 let 而不是 const
-
-// function addBurger() {
-//     const newBurger = "Flatburger";
-//     burgers.push(newBurger);
-
-//     if (order === "othernewBurger") {
-//         const othernewBurger = "Maple Bacon Burger";
-//         burgers.push(othernewBurger);
-//     };
-// }
-
-// function changeFeaturedDrink() {
-//     featuredDrink = "The JavaShake";
-// };
